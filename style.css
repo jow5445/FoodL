@@ -34,7 +34,6 @@ a {
   margin: auto;
 }
 
-/*utility class*/
 
 .primary-text {
   color: #e4b95b;
@@ -310,8 +309,8 @@ header * {
 #gallery .img-gallery img:hover {
   opacity: 1;
 }
-/*gallery end*/
-/*contact start*/
+
+
 #contact {
   padding: 5rem 0;
   background: white;
