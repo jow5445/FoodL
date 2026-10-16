@@ -289,10 +289,12 @@ header * {
   background: url("img/offer-background.jpg") center center/cover no-repeat;
   padding: 8rem 0 6rem;
 }
+
 #gallery h2 {
   color: white;
   text-align: center;
 }
+
 #gallery .img-gallery {
   display: flex;
   justify-content: center;
