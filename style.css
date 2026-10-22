@@ -34,7 +34,6 @@ a {
   margin: auto;
 }
 
-
 .primary-text {
   color: #e4b95b;
 }
@@ -284,7 +283,6 @@ header * {
   font-weight: 500;
 }
 
-
 #gallery {
   background: url("img/offer-background.jpg") center center/cover no-repeat;
   padding: 8rem 0 6rem;
@@ -311,7 +309,6 @@ header * {
 #gallery .img-gallery img:hover {
   opacity: 1;
 }
-
 
 #contact {
   padding: 5rem 0;
