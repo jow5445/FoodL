@@ -27,7 +27,7 @@ I focused on making the website visually appealing and easy to navigate, with a 
 
 You don't need to install any packages or set up a development environment to run this project.
 
-1. Open `index.html` in your browser.
+Open `index.html` in your browser.
 
 That's it! The website should be ready to explore.
 
